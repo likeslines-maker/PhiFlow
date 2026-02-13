@@ -104,7 +104,7 @@ dotnet add package PhiFlow
 
 Minimal example
 
-``csharp
+```csharp
 
 using PhiFlow;
 
