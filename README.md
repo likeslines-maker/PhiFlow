@@ -4,6 +4,9 @@ PhiFlow
 
 PhiFlow is a high‑performance .NET library for incremental computation on layered,fixed‑width graphs with real‑time analytics.
 
+Important Note on Naming
+
+When choosing the name for our product, we were unaware of the existing PhiFlow library (https://tum-pbs.github.io/PhiFlow/), which is an academic Python framework for differentiable physical simulations (primarily fluids) and machine learning. Our PhiFlow is built for a completely different ecosystem (production .NET) and solves fundamentally different problems: it is a high-performance incremental computation engine for layered graphs, designed for real-time analytics in FinTech, AdTech, IIoT, and gaming. We respectfully acknowledge the work of the Tum-PBS team and do not claim any affiliation with their project. We apologize for any confusion and will consider a rebranding in the near future to clearly distinguish our products.
 
 
 It is built for workloads where:
